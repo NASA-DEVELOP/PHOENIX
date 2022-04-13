@@ -1,5 +1,3 @@
-READ ME
-===============
 PHOENIX (Plume Hazards and Observations of Emissions by Navigating an Interactive eXplorer)
 
 
